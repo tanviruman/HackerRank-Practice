@@ -1,7 +1,7 @@
-# REPO NAME
-![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/)
-![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/)
+# HackerRank-Practice
+![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/HackerRank-Practice)
+![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/HackerRank-Practice)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/HackerRank-Practice)
 
 
 ## Authors
